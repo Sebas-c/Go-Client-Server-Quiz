@@ -1,4 +1,4 @@
-# cobracmd
+# Go Client-Server Quiz
 A small client-server in go. The client connects to the server to answer a quiz and gets a result.
 
 # How to use
